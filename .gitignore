@@ -1,2 +1,5 @@
 Data/**
 ReportTemplate/**
+*.aux
+*.log
+*.gz
