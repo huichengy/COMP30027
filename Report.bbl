@@ -1,0 +1,16 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Moon and Liu}2016]{rnn}
+Tim Moon and Eric Liu.
+\newblock 2016.
+\newblock Using feedforward and recurrent neural networks to predict a
+  blogger’s age.
+
+\bibitem[\protect\citename{Schler \bgroup et al.\egroup }2006]{dataset}
+Jonathan Schler, Moshe Koppel, Shlomo Argamon, and James Pennebaker.
+\newblock 2006.
+\newblock Effects of age and gender on blogging.
+\newblock {\em Proceedings of 2006 AAAI Spring Symposium on Computational
+  Approaches for Analyzing Weblogs}.
+
+\end{thebibliography}
