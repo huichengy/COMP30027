@@ -1,0 +1,5 @@
+The output is from:
+* MLPClassifier trained on top10
+* Ensemble (stacked) system on top10
+* SGDClassifier on combined user IDs on raw
+* SGDClassifier on age group replacement on raw
